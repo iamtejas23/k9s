@@ -38,7 +38,7 @@ k9s version
    ```
 3. Run the script:
    ```sh
-   ./install_k9s.sh
+   sh install_k9s.sh
    ```
 
 This script includes error handling for the download step to ensure that the script exits gracefully if the download fails.
