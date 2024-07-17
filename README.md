@@ -41,4 +41,3 @@ k9s version
    sh install_k9s.sh
    ```
 
-This script includes error handling for the download step to ensure that the script exits gracefully if the download fails.
